@@ -6,6 +6,7 @@ Vertalingen <br>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/id/CODE_OF_CONDUCT.md>🇮🇩 ID   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/it/CODE_OF_CONDUCT.md>🇮🇹 IT   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/nl/CODE_OF_CONDUCT.md>🇳🇱 NL   </a>
+<a href=https://github.com/Ciphey/Ciphey/tree/master/translations/pl/CODE_OF_CONDUCT.md>🇵🇱 PL   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/pt-br/CODE_OF_CONDUCT.md>🇧🇷 PT-BR   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/ru/CODE_OF_CONDUCT.md>🇷🇺 RU   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/zh/CODE_OF_CONDUCT.md>🇨🇳 ZH   </a>
