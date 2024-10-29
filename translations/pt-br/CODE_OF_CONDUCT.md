@@ -11,52 +11,52 @@ Traduções <br>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/zh/CODE_OF_CONDUCT.md>🇨🇳 ZH   </a>
 </p>
 
-# Código de conduta do colaborador
+# Código de Conduta do Contribuidor
 
-## Nosso juramento
+## Nosso Juramento
 
-No interesse de promover um ambiente aberto e acolhedor, nós como contribuidores e mantedores juramos fazer com que a participação no nosso projeto e comunidade, uma experiência livre de assédio para todos, independente de idade, tamanho do corpo, deficiência, etnia, características sexuais, identidade de gênero e expressão, nível de experiência, educação, status sócio-econômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
+No interesse de promover um ambiente aberto e acolhedor, nós, como contribuidores e mantenedores, nos comprometemos a tornar a participação em nosso projeto e nossa comunidade uma experiência livre de assédio para todos, independentemente de idade, tipo de corpo, deficiência, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
 
-## Nossas normas
+## Nossas Normas
 
-Exemplos de comportamentos que contribuem em criar um ambiente positivo incluem:
+Exemplos de comportamentos que contribuem para a criação de um ambiente positivo incluem:
 
-- Usar linguagem acolhedora e inclusiva
-- Respeitar diferentes pontos de vista e experiências
+- Utilizar uma linguagem acolhedora e inclusiva
+- Respeitar pontos de vista e experiências diferentes
 - Aceitar críticas construtivas
 - Focar no que é melhor para a comunidade
-- Demonstrar empatia para os outros membros da comunidade
+- Demonstrar empatia com outros membros da comunidade
 
-Exemplos de comportamentos inaceitáveis por participantes incluem:
+Exemplos de comportamentos inaceitáveis por parte dos participantes incluem:
 
-- Uso de linguagem ou imagens sexuais e avanços ou atenções sexuais indesejáveis.
-- Comentários indesejáveis, insultantes/derrogatórios e ataques pessoais ou políticos.
-- Abuso público ou privado
-- Publicar informação privada de alguem, como endereço fisíco ou virtual, sem permissão explícita.
-- Outras condutas que poderiam ser consideradas inapropriadas num ambiente profissional
+- Uso de linguagem ou imagens sexualizadas e avanços ou atenções sexuais indesejáveis
+- Comentários indesejáveis, insultantes/derrogatórios e ataques pessoais ou políticos
+- Assédio público ou privado
+- Publicação de informações privadas de outras pessoas, como um endereço físico ou eletrônico, sem permissão explícita
+- Outras condutas que poderiam ser consideradas inapropriadas em um ambiente profissional
 
 ## Nossas Responsabilidades
 
-Mantedores do projeto são responsáveis por clarificar as normas de comportamento aceitável e é esperado que tomem ações corretivas apropriadas e justas em resposta a qualquer instância de comportamento inaceitável.
+Os mantenedores do projeto são responsáveis por esclarecer os padrões de comportamento aceitável e são esperados que tomem ações corretivas apropriadas e justas em resposta a quaisquer casos de comportamento inaceitável.
 
-São responsabilidades e direitos dos mantedores do projeto:remover, editar ou rejeitar comentários, commits, códifo, edições na wiki, questões e outras contribuições que não se alinhem com esse código de conduta, ou banir temporáriamente ou permanentemente qualquer contribuidor por outro comportamento que são dados como inapropriados, ameaçadores, ofensivos ou prejudiciais.
+Os mantenedores do projeto têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, commits, código, edições de wiki, issues e outras contribuições que não estejam alinhadas a este Código de Conduta, ou de banir temporária ou permanentemente qualquer colaborador por outros comportamentos que considerem inadequados, ameaçadores, ofensivos ou prejudiciais.
 
 ## Escopo
 
-Esse código de conduta aplica tanto em espaços para o projeto como em espaços públicos em quem um indivíduo esteja representando o projeto ou a comunidade. Exemplos de representação do projeto ou comunidade incluem usar um endereço de e-mail oficial do projeto, publicações numa conta oficial do projeto em uma rede social ouo agindo como um representante num evento online ou offline. Representação do projeto pode ser definido e clarificado posteriormente por mantedores do projeto.
+Este Código de Conduta se aplica tanto dentro dos espaços do projeto quanto em espaços públicos quando um indivíduo estiver representando o projeto ou sua comunidade. Exemplos de representação de um projeto ou comunidade incluem o uso de um e-mail oficial do projeto, publicações em uma conta oficial de mídia social ou atuação como representante designado em um evento online ou offline. A representação de um projeto pode ser definida e esclarecida pelos mantenedores do projeto.
 
-## Execução
+## Aplicação
 
-Instâncias de comportamento abusivo, assediante ou inaceitável poderá ser reportado contactando o time do projeto em brandon_skerrit. Todas reclamações serão revisadas e investigadas e resultarão em uma resposta que seja decidida necessária e apropriada para as circunstâncias. O time do projeto é obrigado a manter confidencialidade em relação ao relator de um incidente. Mais detalhes da política de execução específica podem ser publicados separadamente.
+Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser reportados entrando em contato com a equipe do projeto em brandon_skerrit. Todas as reclamações serão revisadas e investigadas e resultarão em uma resposta que é considerada necessária e apropriada para as circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator de um incidente. Mais detalhes sobre políticas específicas de aplicação podem ser publicados separadamente.
 
-Mantedores do projeto que não seguirem ou executarem o códico de conduta em boa fé podem sofrer repercussões temporárias ou permanentes como determinado por outros membros da liderança do projeto.
+Os mantenedores do projeto que não seguirem ou aplicarem o Código de Conduta de boa fé podem enfrentar consequências temporárias ou permanentes, conforme determinado por outros membros da liderança do projeto.
 
 ## Atribuição
 
-Esse código de conduta é adaptado do [Contributor Covenant][homepage], versão 1.4,
+Este Código de Conduta é adaptado do [Contributor Covenant][homepage], versão 1.4,
 disponível em <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>
 
 [homepage]: https://www.contributor-covenant.org
 
-Para respostas de perguntas comuns sobre esse código de conduta, veja
+Para respostas a perguntas comuns sobre este Código de Conduta, veja
 <https://www.contributor-covenant.org/faq>
