@@ -1,7 +1,7 @@
 <p align="center">
 Traduções <br>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/CONTRIBUTING.md>🇩🇪 DE   </a>
-<a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/CONTRIBUTING.md>🇬🇧 EN   </a>
+<a href=https://github.com/Ciphey/Ciphey/tree/master/CONTRIBUTING.md>🇬🇧 EN   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/hu/CONTRIBUTING.md>🇭🇺 HU   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/id/CONTRIBUTING.md>🇮🇩 ID   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/it/CONTRIBUTING.md>🇮🇹 IT   </a>
@@ -13,58 +13,58 @@ Traduções <br>
 
 Olá!
 
-Então você está interessado em contribuir com Ciphey? 🤔
+Então, você tem interesse em contribuir para o Ciphey? 🤔
 
-Talves você esteja confudo em onde começar, ou você acredita que suas habilidades em escrever código não são "boas o bastante"? Bom, para a segunda opção - isso é ridículo! Nós estamos de boa com "código ruim" e mesmo assim, se você está lendo esse documento, você provavelmente é um programador bom. Quer dizer, iniciantes normalmente não aprendem a contribuir em projetos do GitHub. 😉
+Talvez você esteja com dúvidas sobre onde começar ou ache que suas habilidades de programação não são "boas o suficiente". Bem, quanto a isso - isso é ridículo! Somos bem de boa com "código ruim" e, se você está lendo este documento, provavelmente você já tem grande capacidade em programação. Afinal, iniciantes não costumam aprender a contribuir para projetos no GitHub 😉
 
 Aqui estão algumas maneiras de contribuir com Ciphey:
 
-- Adicione uma linguagem nova 🧏
-- Adicione metodos de criptografia 📚
-- Crie mais documentação (muito importante! Nós seriamos eternamente gratos)
-- Resolva bugs nas questoes do GitHub (nós podemos te ajudar nisso 😊)
-- Refatore o código 🥺
+- Adicionar um novo idioma 🧏
+- Adicionar mais métodos de criptografia 📚
+- Criar mais documentação (muito importante! Ficaríamos eternamente gratos)
+- Corrigir bugs enviados via issues no GitHub (podemos dar suporte nisso 😊)
+- Refatorar o código 🥺
 
-Se esses parecem difíceis, não se preocupe! Esse documento vai te ensinar exatamente como alcançar qualquer um desses. Além disso, seu nome será adicionado para a lista de contribuidores do Ciphey e nós seremos eternamente gratos! 🙏
+Se isso parece difícil, não se preocupe! Este documento vai te guiar em como realizar qualquer uma dessas tarefas. Além disso, seu nome será adicionado à lista de contribuições do Ciphey, e seremos eternamente gratos! 🙏
 
-Nós temos um pequeno chat do Discord para você conversar com os desenvolvedores e receber uma ajuda. Alternativamente, você pode escrever uma issue no GitHub para a sua sugestão. Se você quiser ser adicionado no Discord, mande uma DM ou nos pergunte de alguma maneira.
+Temos um pequeno chat no Discord para que você possa conversar com os desenvolvedores e receber uma ajuda. Alternativamente, você pode abrir uma issue no GitHub para enviar sua sugestão. Se quiser que te adicionemos ao Discord, envie uma DM ou entre em contato conosco de alguma forma.
 
 [Servidor do Discord](https://discord.gg/KfyRUWw)
 
 # Como contribuir
 
-Ciphey sempre precisa mais ferramentas de descriptografia! Para aprender como integrar código no Ciphey, dê uma olhada:
+O Ciphey sempre precisa de mais ferramentas de descriptografia! Para aprender como integrar código ao Ciphey, confira:
 
 - <https://github.com/Ciphey/Ciphey/wiki/Adding-your-own-ciphers> para um tutorial simples
 - <https://github.com/Ciphey/Ciphey/wiki/Extending-Ciphey> para a referência da API
 
-Seria bom se você escrever testes, simplesmente copiando a função em Ciphey/tests/test_main.py e substituindo o texto cifrado por algo codificado pela sua cifra. Se você não adicionar testes, nós provavelmente ainda aceitaremos, mas vai ser muito mais difícil para nós diagnosticar os bugs!
+Seria ótimo se você pudesse escrever alguns testes para o seu código, copiando uma função no Ciphey/tests/test_main.py e substituindo o texto cifrado por algo codificado com sua cifra. Se não adicionar testes, provavelmente ainda faremos o merge, mas será bem mais difícil diagnosticar bugs!
 
-Não precisa nem dizer que nós adicionaremos você para a lista de contribuidores por seu trabalho duro!
+Nem preciso dizer que vamos te adicionar à lista de contribuições pelo seu trabalho duro!
 
-# Adicionar uma linguagem nova 🧏
+# Adicionar um novo idioma 🧏
 
-O verificador de linguagem padrão, `brandon`, trabalha com multiplas linguagens. Agora, isso pode soar assustador.
-Mas honestamente, tudo oque você deve fazer é pegar um dicionário, fazer uma pequena análise (nós escrevemos código para te ajudar com isso), adicionar os dicionários e análise para o repositório. E então adicionar a opção para `settings.yml`.
+O verificador de idiomas padrão, `brandon`, funciona com vários idiomas. Pode parecer um pouco complicado no início.
+Mas, sinceramente, tudo o que você precisa fazer é pegar um dicionário, fazer uma pequena análise (nós já escrevemos um código para te ajudar com isso), adicionar os dicionários e a análise a um repositório. E então adicionar a opção em `settings.yml`.
 
 # Criar mais documentação
 
-Documentação é a parte mais importante de Ciphey. Sem documentação o codigo fica dificil de entender e nós não queremos isso.
+A documentação é a parte mais importante do Ciphey. Sem documentação, o código fica difícil de entender, e não queremos isso.
 
-Acredite quando eu digo, se você contribuir com boa documentação, você será visto no mesmo nível de contribuidores de códifo. Documentação é absolutamente vital.
+Acredite em mim: se você contribuir com uma ótima documentação, será no mesmo nível que as pessoas que contribuem com código. A documentação é absolutamente essencial.
 
-Existem várias maneiras de adicionar documentação.
+Há várias formas de adicionar documentação:
 
-- Documentando strings no código
-- Melhorando a documentação atual (README, esse arquivo, as paginas Wiki do Ciphey)
-- Traduzindo documentação
+- Doc strings no código
+- Melhorando nossa documentação atual (README, este arquivo, páginas do Wiki do Ciphey)
+- Traduzindo a documentação
 
 E muito mais!
 
-# Resolver bugs
+# Currigir bugs
 
-Visite nossa página de GitHub issues para encontrar todos os bugs que Ciphey tem! Acabe com eles e você será adicionado na lista de contribuidores. ;)
+Visite nossa página de issues no GitHub para encontrar todos os bugs que o Ciphey tem! Resolva-os, colocaremos você na lista de contribuições. ;)
 
 # Refactorar o código
 
-Nem todo código de Ciphey segue PEP8 e uma parte do código é repetida.
+Nem todo o código do Ciphey segue o padrão PEP8, e algumas partes do código são repetitivas.
