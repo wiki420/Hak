@@ -97,6 +97,12 @@ def print_help(ctx):
     "--searcher",
     help="Select the searching algorithm to use",
 )
+@click.option(
+    "-o",
+    "--output",
+    help="Specify the path to save the output to a text file. Currently works only with quiet mode.",
+    type=str,
+)
 # HARLAN TODO XXX
 # I switched this to a boolean flag system
 # https://click.palletsprojects.com/en/7.x/options/#boolean-flags
@@ -265,4 +271,10 @@ def main(**kwargs):
     if result is None:
         result = "Could not find any solutions."
 
-    console.print(result)
+    # if output path is specified, save the output to the file
+    if "output" in kwargs and kwargs["output"]:
+        with open(kwargs["output"], "w") as file:
+            file.write(result)
+
+    else:
+        console.print(result)
