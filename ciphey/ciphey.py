@@ -101,7 +101,7 @@ def print_help(ctx):
     "-o",
     "--output",
     help="Specify the path to save the output to a text file. Currently works only with quiet mode.",
-    type=str
+    type=str,
 )
 # HARLAN TODO XXX
 # I switched this to a boolean flag system
@@ -275,5 +275,6 @@ def main(**kwargs):
     if "output" in kwargs and kwargs["output"]:
         with open(kwargs["output"], "w") as file:
             file.write(result)
+
     else:
         console.print(result)
